@@ -28,7 +28,7 @@ alucca8.github.io
         
         <img src = "https://www.autoblog.com/.image/c_fill,g_faces:center/NzowMDAwMDAwMDAwODg1OTY2/2023_rimac_nevera_002-66069-scaled-1.jpg" alt = "A blue Rimac Nevera.">
         
-        <h2>4. SSC Tuatara</h2>
+        <h2>4. SSC Tatara</h2>
         
         <ul>
         <li>Top Speed: 295 mph
